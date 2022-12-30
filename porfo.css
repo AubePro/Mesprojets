@@ -1,0 +1,58 @@
+
+.acceuil{
+    border: solid 1px brown;
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    font-weight: 99%;
+    height: 50px;
+    padding: 20px;
+    margin-top: -10px;
+}
+
+.presentation{
+    /* border: solid 1px brown; */
+    /* border-radius: 10px; */
+    /* background-color: brown; */
+    color: brown;
+    text-align: center;
+    padding: 60px;
+    margin: 60px;
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: bolder;
+    width: 45%;
+    height: 80px;
+    
+}
+
+.img{
+    border: solid 1px brown;
+    background: brown;
+    border-radius:  30% 30% 30px 30px;
+    width: 20%;
+    height: 170px;
+    margin-left: 68%;
+    margin-top: -17%;
+    padding: 30px;
+}
+
+.apropos{
+    display: flex;
+    border: solid 1px brown;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold; 
+    /* text-decoration: none; */
+    justify-content: space-evenly; 
+    margin-top: 11%;
+    
+}
+
+ul li{
+    list-style: none;
+
+}
